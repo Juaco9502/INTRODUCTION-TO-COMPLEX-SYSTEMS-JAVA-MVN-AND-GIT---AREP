@@ -47,17 +47,17 @@ java -cp target/taller-introduccion-1.0-SNAPSHOT.jar edu.escuelaing.arep.tarea1.
 
 ![TestResult](img/pruebas.JPG)
 
-## TEST REPORT
+## TEST CASES
 
 TEST 1 | TEST 2
 ------------ | ------------- 
 ![1](img/prueba1MeansInteger.JPG) | ![2](img/prueba2SDeviationInteger.JPG)
-En esta prueba se ingresaron los datos de la columna 1 --> calculandole su media| En esta prueba se ingresaron los datos de la columna 1 --> calculandole su Desviación Estandar
+En esta prueba se ingresaron los datos de la columna 1 , calculandole su media| En esta prueba se ingresaron los datos de la columna 1 , calculandole su desviación estandar
 
 TEST 3 | TEST 4
 ------------ | ------------- 
 ![3](img/prueba3MeansDouble.JPG) | ![4](img/prueba4SDeviationDouble.JPG)
-En esta prueba se ingresaron los datos de la columna 2 --> calculandole su media| En esta prueba se ingresaron los datos de la columna 2 --> calculandole su Desviación Estandar
+En esta prueba se ingresaron los datos de la columna 2 , calculandole su media| En esta prueba se ingresaron los datos de la columna 2 , calculandole su desviación estandar
 
 
 ## BUILT
