@@ -2,6 +2,9 @@
 
 Write a program to calculate the mean and standard deviation of a set of n real numbers.
 
+# DOCUMENTATION
+
+[Tare1-Arep(LaTeX)](/Tarea1Arep.pdf)
 
 # DESIGN
 ![Design](img/diagramaDeClases.JPG)
