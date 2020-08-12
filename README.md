@@ -1,4 +1,4 @@
-# HOMEWORK 1 AREM (INTRODUCTION TO COMPLEX SYSTEMS, JAVA, MVN, AND GIT)
+# HOMEWORK 1 AREP (INTRODUCTION TO COMPLEX SYSTEMS, JAVA, MVN, AND GIT)
 
 Write a program to calculate the mean and standard deviation of a set of n real numbers.
 
