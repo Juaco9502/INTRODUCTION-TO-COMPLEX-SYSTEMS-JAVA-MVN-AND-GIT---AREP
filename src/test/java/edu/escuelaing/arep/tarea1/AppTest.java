@@ -15,7 +15,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Vashi
+ * @author Juan.Ortiz
  */
 public class AppTest 
 {
