@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Application to calculate the mean and standard deviation of data in a file 
  *
- * @author vashi
+ * @author Juan.Ortiz
  */
 public class App {
 
