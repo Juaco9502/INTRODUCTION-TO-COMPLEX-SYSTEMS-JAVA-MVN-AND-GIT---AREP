@@ -6,14 +6,14 @@ import java.util.List;
  * calculator that can receive operations in lambda function operate in
  * Integer or Double
  * 
- * @author vashi
+ * @author Juan.Ortiz
  */
 public class Calculator {
 
     /**
     * interface containing integer operations
     * 
-    * @author vashi
+    * @author Juan.Ortiz
     */
     public interface IntegerMath {
 
@@ -23,7 +23,7 @@ public class Calculator {
     /**
     * interface containing Double operations
     * 
-    * @author vashi
+    * @author Juan.Ortiz
     */
     public interface DoubleMath {
 
@@ -33,7 +33,7 @@ public class Calculator {
     /**
     * calculate Integer operations
     * 
-    * @author vashi
+    * @author Juan.Ortiz
      * @param a - integer value
      * @param b - integer value
      * @param op - IntegerMath operation
@@ -46,7 +46,7 @@ public class Calculator {
     /**
     * calculate Double operations in a list
     * 
-    * @author vashi
+    * @author Juan.Ortiz
      * @param a - list of double values
      * @param op - IntegerMath operation
      * @return result operation
