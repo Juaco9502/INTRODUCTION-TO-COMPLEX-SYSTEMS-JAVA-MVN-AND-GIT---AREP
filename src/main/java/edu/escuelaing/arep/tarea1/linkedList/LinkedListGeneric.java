@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * implementation of a list that inside is a linkedList
  * 
- * @author vashi
+ * @author Juan.Ortiz
  * @param <E> object Generic
  */
 public class LinkedListGeneric<E> implements List<E> {
