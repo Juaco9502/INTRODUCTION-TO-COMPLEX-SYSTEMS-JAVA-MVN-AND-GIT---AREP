@@ -61,7 +61,7 @@ public class FileReader {
     /**
      * get Developer Hours LinkedList
      *
-     * @author Vashi
+     * @author Juan.Ortiz
      * @return the Developer Hours  LinkedList
      */
     public List<Double> getListDevHours() {
