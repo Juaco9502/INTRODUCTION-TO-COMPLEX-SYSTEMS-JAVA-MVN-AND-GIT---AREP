@@ -3,7 +3,7 @@ package edu.escuelaing.arep.tarea1.linkedList;
 /**
  * Node Generic for LinkedList Generic
  * 
- * @author vashi
+ * @author Juan.Ortiz
  * @param <E>
  */
 public class NodeGeneric<E> {
