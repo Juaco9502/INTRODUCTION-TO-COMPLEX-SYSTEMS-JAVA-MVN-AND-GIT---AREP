@@ -12,7 +12,7 @@ import java.util.List;
  * class that receives a data.txt file and converts it into a linkedList
  * according to business logic
  * 
- * @author Vashi
+ * @author Juan.Ortiz
  */
 public class FileReader {
 
@@ -29,7 +29,7 @@ public class FileReader {
     /**
      * receives a data.txt file and converts it into a two linkedList
      * 
-     * @author Vashi
+     * @author Juan.Ortiz
      * @param file - file data.txt
      * @throws java.lang.Exception
      */
@@ -51,7 +51,7 @@ public class FileReader {
     /**
      * get Proxy Size LinkedList
      *
-     * @author Vashi
+     * @author Juan.Ortiz
      * @return the Proxy Size LinkedList
      */
     public List<Double> getListProxySize() {
